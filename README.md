@@ -8,7 +8,7 @@ This is a simple FastAPI application that simulates a database of students. It a
 1. Clone the repository:
 
     ```
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/Tanvir-yzu/FastAPI.git
     ```
 
 2. Install the required dependencies:
