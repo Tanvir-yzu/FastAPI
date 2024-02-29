@@ -22,7 +22,7 @@ This is a simple FastAPI application that simulates a database of students. It a
 1. Run the FastAPI application:
 
     ```
-    uvicorn myapi:app --reload
+    python -m uvicorn myapi:app --reload
     ```
 
 2. Open your browser and go to [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs) to view the API documentation.
