@@ -1,4 +1,4 @@
-<img src="[example.png](https://ibb.co/ZBgH5ZL)" alt="Example Image" style="height: 100px; width:100px;"/>
+<a href="https://ibb.co/ZBgH5ZL"><img src="https://i.ibb.co/m9yvkxD/screenshot-127-0-0-1-8000-2024-03-01-02-33-32.png" alt="screenshot-127-0-0-1-8000-2024-03-01-02-33-32" border="0" /></a>
 # FastAPI - First Database
 
 This is a simple FastAPI application that simulates a database of students. It allows you to perform basic CRUD operations (Create, Read, Update, Delete) on the student data.
