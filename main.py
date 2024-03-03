@@ -69,6 +69,8 @@ def update_student(student_id: int, student: updatedStudent):
 
     return students[student_id]
 
+    
+
 
 @app.delete("/delete-student/{student_id}")
 def delete_student(student_id: int):
