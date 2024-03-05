@@ -6,6 +6,7 @@ from pydantic import BaseModel
 # python -m uvicorn myapi:app --reload
 app = FastAPI()
 
+
 students = {
     1: {
         "name": "jone",
